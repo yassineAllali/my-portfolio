@@ -5,7 +5,7 @@ const ExperienceCard = ({titre, sousTitre, image, date, skills = [], contenue=""
     return (
         <div className={`blog-card ${formation ? "formation" : ""}`}>
         <div className="meta">
-          <div className="photo" style={{backgroundImage: `url(/images/${image})`}}></div>
+          <div className="photo" style={{backgroundImage: `url(images/${image})`}}></div>
           <ul className="details">
             <li className="date">{date}</li>
             <li className="tags">

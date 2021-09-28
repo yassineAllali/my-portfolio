@@ -24,7 +24,7 @@ const AboutMe = () => {
             </div>
             <div className="col" style={{backgroundColor:"rgba(0,0,0,0.85)"}}>
                 {profil.map(paragraph => <p key={paragraph} className="lead gsap-reveal"> {paragraph} </p> )}
-              <p className="gsap-reveal"><a className="btn btn-outline-pill btn-custom-light" href="/ressources/cv.pdf" download="cv_yassine_el_allali">Télécharger mon CV</a></p>
+              <p className="gsap-reveal"><a className="btn btn-outline-pill btn-custom-light" href="ressources/cv.pdf" download="cv_yassine_el_allali">Télécharger mon CV</a></p>
             </div>
           </div>
         </div>
