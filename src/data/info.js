@@ -1,6 +1,6 @@
 const INFO = {
     "name": "El Allali Yassine",
-    "position": "Future Software Engineer",
+    "position": "Software Engineer",
     "email" : "yassine.elallali.dev@gmail.com",
     "phone": "+33 7 76 19 32 10",
     "adresse" : "16 Bd Charles Nicolle",
