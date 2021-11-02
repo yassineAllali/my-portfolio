@@ -191,8 +191,16 @@ const INFO = {
             sousTitre : "Application Web MCV",
             image : "spring.png",
             date : "Juin 2021" ,
-            skills : ["Spring Boot, JEE", "JPA, Hibernate, JDBC", "Thymeleaf", "Ajax, JQuery", "Html, Bootstrap, CSS"],
+            skills : ["Spring Boot, JEE", "JPA, Hibernate, JDBC", "Thymeleaf", "MySQL", "Ajax, JQuery", "Html, Bootstrap, CSS"],
             contenue : "Permet aux utilisateurs soit de publier leurs recettes de cuisine ou de les trouver avec une interface ergonomique qui facilite la navigation et la recherche."
+        },
+        {
+            titre : "REST API de produits avec authentification",
+            sousTitre : "Spring Boot REST API",
+            image : "spring.png",
+            date : "Octobre 2021" ,
+            skills : ["Spring Boot, JEE", "Spring Security", "Spring Data JPA", "MySQL"],
+            contenue : "Une API REST qui offre les fonctionnalités CRUD pour la gestion des produits avec authentification"
         },
         {
             titre : "Application de location de logements de particuliers",
