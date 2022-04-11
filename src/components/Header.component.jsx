@@ -18,7 +18,7 @@ const Header = () => {
                         <li><a href="#experiences-section" className="nav-link">Experiences</a></li>
                         
                         <li><a href="#formations-section" className="nav-link">Formations</a></li>
-                        <li><a href="#projets-section" className="nav-link">Projets</a></li>
+                        <li><a href="#certificates-section" className="nav-link">Certificats</a></li>
                     </ul>
                     </div>
                     <div className="site-logo pos-absolute">
@@ -26,9 +26,10 @@ const Header = () => {
                     </div>
                     <div className="col-md-5 text-right text-lg-left">
                     <ul className="site-nav-ul js-clone-nav text-left d-none d-lg-inline-block">
+                        <li><a href="#projets-section" className="nav-link">Projets</a></li>
                         <li><a href="#events-section" className="nav-link">Evénements</a></li>
                         <li><a href="#skills-section" className="nav-link">Compétences</a></li>
-                        <li><a href="#soft-skills-section" className="nav-link">Soft Skills</a></li>
+                        {/*<li><a href="#soft-skills-section" className="nav-link">Soft Skills</a></li>*/}
                         <li><a href="#langues-section" className="nav-link">Langues</a></li>
                         <li><a href="#contact-section" className="nav-link">Contact</a></li>
                     </ul>
