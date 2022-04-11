@@ -23,32 +23,32 @@ const INFO = {
             points: 90
         },
         {
-            name: "PHP",
-            points: 85
-        },
-        {
             name: "Python",
             points: 80
         },
         {
+            name: "PHP",
+            points: 75
+        },
+        {
             name: "JavaScript",
-            points: 85
+            points: 75
         },
         {
             name: "C++",
-            points: 80
+            points: 75
         },
         {
             name: "C#",
-            points: 80
+            points: 70
         },
         {
             name: "Spring Boot",
-            points: 80
+            points: 85
         },
         {
             name: "Laravel",
-            points: 85
+            points: 80
         },
         {
             name: "Symfony",
@@ -56,11 +56,11 @@ const INFO = {
         },
         {
             name: "ASP.NET",
-            points: 80
+            points: 75
         },
         {
             name: "ReactJs",
-            points: 80
+            points: 75
         },
         {
             name: "Flutter",
@@ -82,11 +82,20 @@ const INFO = {
             name: "Git",
             points: 80
         },
+        {
+            name: "Docker",
+            points: 75
+        },
     ],
     "softSkills" : [
         {
+            name: "Esprit d’équipe",
+            points: 90
+        }
+        ,
+        {
             name: "Discipline",
-            points: 95
+            points: 90
         },
         {
             name: "Adaptabilité",
@@ -95,13 +104,7 @@ const INFO = {
         {
             name: "Curiosité",
             points: 85
-        }
-        ,
-        {
-            name: "Esprit d’équipe",
-            points: 85
-        }
-        ,
+        },
         {
             name: "Leadership",
             points: 75
