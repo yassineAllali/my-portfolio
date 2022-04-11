@@ -3,7 +3,7 @@ const INFO = {
     "position": "Software Engineer",
     "email" : "yassine.elallali.dev@gmail.com",
     "phone": "+33 7 76 19 32 10",
-    "adresse" : "16 Bd Charles Nicolle",
+    "adresse" : "80 Avenue de la République, 93300, Aubervilliers",
     "city": "72000 Le Mans",
     "country": "France",
     "linkedin" : "https://linkedin.com/in/yassine-elallali",
