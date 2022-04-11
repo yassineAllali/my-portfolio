@@ -1,5 +1,6 @@
 import './App.css';
 import AboutMe from './components/AboutMe.component';
+import Certificates from './components/Certificates.component';
 import Contact from './components/Contact.component';
 import Events from './components/Events.component';
 import Experiences from './components/Experiences.component';
@@ -19,6 +20,7 @@ function App() {
       <AboutMe/>
       <Experiences/>
       <Formations/>
+      <Certificates/>
       <Projets/>
       <Events/>
       <Skills/>

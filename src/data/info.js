@@ -15,7 +15,7 @@ const INFO = {
         "J'ai accumulé une expérience respectueuse dans le domaine du développement Web et Mobile que ce soit en tant que stagiaire ou en tant que Freelancer, et aussi en travaillant sur des projets académiques et personnels.",
         "J'ai participé dans plusieurs compétitions de programmation, et à chaque participation, je remarque une amélioration sur le côté algorithmique et optimisation qui est pour moi un côté très important dans le profil d'un bon ingénieur en informatique.",
         "Je suis aussi intéressé par le \"Cloud Computing\" et l'intelligence artificielle, et je suis toujours à la recherche d'appliquer mes compétences en programmation dans des projets qui utilisent les dérnières technologies.",
-        "Je suis en dernière année de mon cursus académique, et je suis en recherche active d'un stage PFE dans une entreprise que je peux l'aider à concevoir, développer et optimiser ses solutions informatiques, et qui va m'aider à pousser mes connaissances et mon expérience au NEXT LEVEL."
+        "Je suis en dernière année de mon cursus académique, et je suis actuellement un stagiaire en développement backend en Java et Spring Boot chez Universign."
     ],
     "skills" : [
         {
@@ -141,7 +141,23 @@ const INFO = {
             "image" : "certificate.jpg"
         },
     ],
+    "certificates": [
+        {
+            "titre": "Java In-Depth: Become a Complete Java Engineer!",
+            "organism": "Udemy",
+            "date" : "Février 2022",
+            "image" : "java_certificate.png"
+        }
+    ],
     "experiences":[
+        {
+            titre : "Stagiaire Développeur Backend en Java",
+            sousTitre : "Universign",
+            image : "universign.jpeg",
+            date : "Mars-Septembre 2022",
+            skills : ["Spring", "Java", "Docker", "Jira", "Jenkins", "Kubernetes"],
+            contenue : "Développement de micro-services de signature électronique niveau avancé."
+        },
         {
             titre : "Stagiaire Développeur Full Stack",
             sousTitre : "Assoukna Immobilier",
